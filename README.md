@@ -6,6 +6,14 @@ A synthetic multi-view dataset for pedestrian skeletal map detection and localiz
 
 This dataset contains synchronized stereo camera footage of pedestrians in various urban scenarios, with ground truth 3D skeletal joint positions. It is designed for research in multi-view pedestrian tracking, pose estimation, and 3D localization.
 
+## Dataset Access
+The full dataset is hosted externally due to size constraints.
+
+**Dataset Name:** Stereo Pedestrians Dataset  
+**Version:** v1.0 (June 2024)  
+**Storage Location:** [Google Drive – Stereo Pedestrians Dataset](https://drive.google.com/file/d/124KSLACy-gyG_3TxCgocUKsMUx3sOiqp/view?usp=sharing)
+
+
 ### Statistics
 - **Total Scenes**: 7
 - **Total Frames**: 973
